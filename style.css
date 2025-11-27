@@ -242,7 +242,7 @@ body {
 }
 .step-card {
     display: flex;
-    background-color: #fff;
+    background-color: #e1eef45e;
     width: 1200px;
     max-width: 100%;
     overflow: hidden;
